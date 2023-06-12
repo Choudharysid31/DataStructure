@@ -1,0 +1,3 @@
+a=eval(input("Enter the list "))
+b=list(set(a))
+print(b)
